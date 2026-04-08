@@ -82,9 +82,12 @@ use :
   "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/aninewsID/news1.json",
   "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/aninewsID/news2.json",
   "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/aninewsID/news3.json",
-   "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/aninewsID/news4.json",
+  "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/aninewsID/news4.json",
   "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/filmnewsindonesia/news1.json"
   "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/musicnewsindonesia/news1.json"
+  "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/sportnewsID/news1.json",
+  "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/sportnewsID/news2.json",
+  "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/sportnewsID/news3.json" 
 ```
 atau kamu bisa buka di 
 source.json
