@@ -30,6 +30,7 @@ dengan total berita yang tersedia adalah
 - movie indonesia
 - programming
 - finansial
+- sports
 ---
 
 ## 🚀 Features
