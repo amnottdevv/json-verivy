@@ -18,7 +18,7 @@ Project ini dibuat untuk:
 ## start with
 ayo coba gunakan raw github untuk keperluan project anda gratis! 
 dengan total berita yang tersedia adalah
-200+ berita mencakup
+250+ berita mencakup
 - handphone
 - ai
 - politik ringan
