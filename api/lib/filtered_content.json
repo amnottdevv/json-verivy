@@ -1,0 +1,184 @@
+{
+  "metadata": {
+    "total_filtered": 16,
+    "last_updated": "2026-04-08",
+    "description": "Database konten anime berbahaya (gore/kekerasan ekstrem/konten dewasa) yang tidak boleh ditampilkan di homepage"
+  },
+  "filtered_content": [
+    {
+      "id": 176,
+      "title": "Genocyber: Anime Gore Paling Sakit Sepanjang Masa",
+      "show_on_homepage": false,
+      "rating": "18+",
+      "reason": "Gore ekstrem (ledakan tubuh, usus keluar, organ tubuh bertebaran). Tidak layak tampil di homepage karena konten kekerasan tingkat tinggi.",
+      "block": true,
+      "category": "gore",
+      "severity": 10
+    },
+    {
+      "id": 181,
+      "title": "Mengenal 'Anime Sakit': Dari Genocyber, Elfen Lied, sampai Made in Abyss",
+      "show_on_homepage": false,
+      "rating": "18+",
+      "reason": "Membahas gore, trauma, dan kekerasan terhadap anak. Konten psikologis berat yang tidak cocok untuk homepage.",
+      "block": true,
+      "category": "gore",
+      "severity": 9
+    },
+    {
+      "id": 187,
+      "title": "Shoujo Tsubaki: Anime Paling Kontroversial Sepanjang Masa",
+      "show_on_homepage": false,
+      "rating": "18+",
+      "reason": "Mengandung gore ekstrem PLUS pelecehan seksual terhadap anak di bawah umur. Konten paling berbahaya, WAJIB diblokir dari homepage.",
+      "block": true,
+      "category": "gore_sexual",
+      "severity": 10
+    },
+    {
+      "id": 190,
+      "title": "High School DxD: Anime Harem Paling Kontroversial",
+      "show_on_homepage": false,
+      "rating": "18+",
+      "reason": "Ecchi (adegan seksual semi-eksplisit) dengan karakter berseragam SMA. Tidak layak tampil di homepage.",
+      "block": true,
+      "category": "sexual",
+      "severity": 7
+    },
+    {
+      "id": 192,
+      "title": "Elfen Lied, Legenda Anime Gore yang Masih Trauma",
+      "show_on_homepage": false,
+      "rating": "18+",
+      "reason": "Gore ekstrem (mutilasi massal di menit pertama). Konten kekerasan grafis tinggi.",
+      "block": true,
+      "category": "gore",
+      "severity": 9
+    },
+    {
+      "id": 194,
+      "title": "Kite (1998): Anime Pendek yang Dilarang karena Eksploitasi Seksual",
+      "show_on_homepage": false,
+      "rating": "18+",
+      "reason": "Eksploitasi seksual terhadap anak di bawah umur + gore. Konten sangat bermasalah.",
+      "block": true,
+      "category": "sexual_gore",
+      "severity": 10
+    },
+    {
+      "id": 195,
+      "title": "Nukitashi the Animation: Eksperimen Sensor Gila",
+      "show_on_homepage": false,
+      "rating": "18+",
+      "reason": "Konten dewasa ekstrem dari visual novel vulgar. Tidak layak tampil di homepage.",
+      "block": true,
+      "category": "sexual",
+      "severity": 8
+    },
+    {
+      "id": 197,
+      "title": "Isekai Paling Kontroversial: Mushoku Tensei sampai Redo of Healer",
+      "show_on_homepage": false,
+      "rating": "18+",
+      "reason": "Membahas Redo of Healer yang berisi balas dendam seksual (pemerkosaan). Konten sangat sensitif.",
+      "block": true,
+      "category": "sexual_violence",
+      "severity": 10
+    },
+    {
+      "id": 308,
+      "title": "Elfen Lied: Anime Paling Berdarah yang Dilarang di China dan Rusia",
+      "show_on_homepage": false,
+      "rating": "18+",
+      "reason": "Gore ekstrem (mutilasi, pembunuhan massal) + nuansa seksual. Konten kekerasan tingkat tinggi.",
+      "block": true,
+      "category": "gore_sexual",
+      "severity": 9
+    },
+    {
+      "id": 309,
+      "title": "Genocyber: Anime Paling Sadis Sepanjang Masa",
+      "show_on_homepage": false,
+      "rating": "18+",
+      "reason": "Gore ekstrem (mutilasi, ledakan tubuh, organ keluar). Konten kekerasan paling tinggi.",
+      "block": true,
+      "category": "gore",
+      "severity": 10
+    },
+    {
+      "id": 310,
+      "title": "Midori: Shoujo Tsubaki, Anime Paling Kontroversial",
+      "show_on_homepage": false,
+      "rating": "18+",
+      "reason": "Gore + eksploitasi seksual anak di bawah umur. Konten paling berbahaya dalam database.",
+      "block": true,
+      "category": "gore_sexual",
+      "severity": 10
+    },
+    {
+      "id": 311,
+      "title": "Redo of Healer: Revenge Paling Kontroversial",
+      "show_on_homepage": false,
+      "rating": "18+",
+      "reason": "Balas dendam seksual (adegan pemerkosaan eksplisit). Konten sangat bermasalah dan traumatis.",
+      "block": true,
+      "category": "sexual_violence",
+      "severity": 10
+    },
+    {
+      "id": 312,
+      "title": "Kite (1998): Anime Pendek yang Dilarang karena Eksploitasi Seksual Anak",
+      "show_on_homepage": false,
+      "rating": "18+",
+      "reason": "Eksploitasi seksual anak di bawah umur + kekerasan grafis.",
+      "block": true,
+      "category": "sexual_gore",
+      "severity": 10
+    },
+    {
+      "id": 313,
+      "title": "School Days: Akhir Cerita Paling Kontroversial",
+      "show_on_homepage": false,
+      "rating": "18+",
+      "reason": "Gore (pemenggalan kepala, pembunuhan berdarah). Konten kekerasan grafis.",
+      "block": true,
+      "category": "gore",
+      "severity": 8
+    },
+    {
+      "id": 314,
+      "title": "Goblin Slayer: Episode Pertama Kontroversial",
+      "show_on_homepage": false,
+      "rating": "18+",
+      "reason": "Mengandung adegan pemerkosaan + kekerasan grafis di episode pertama.",
+      "block": true,
+      "category": "sexual_violence",
+      "severity": 9
+    },
+    {
+      "id": 315,
+      "title": "Devilman Crybaby: Animasi Netflix yang Brutal",
+      "show_on_homepage": false,
+      "rating": "18+",
+      "reason": "Seks eksplisit + kekerasan grafis + tema satanis.",
+      "block": true,
+      "category": "gore_sexual",
+      "severity": 8
+    }
+  ],
+  "stats": {
+    "by_category": {
+      "gore": 5,
+      "sexual": 2,
+      "sexual_violence": 3,
+      "gore_sexual": 3,
+      "sexual_gore": 2
+    },
+    "by_severity": {
+      "10": 8,
+      "9": 4,
+      "8": 3,
+      "7": 1
+    }
+  }
+}
