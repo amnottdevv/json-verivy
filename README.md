@@ -18,7 +18,7 @@ Project ini dibuat untuk:
 ## start with
 ayo coba gunakan raw github untuk keperluan project anda gratis! 
 dengan total berita yang tersedia adalah
-138 berita mencakup
+200+ berita mencakup
 - handphone
 - ai
 - politik ringan
@@ -26,6 +26,10 @@ dengan total berita yang tersedia adalah
 - busana
 - tech
 - project buatan anak bangsa
+- anime
+- movie indonesia
+- programming
+- finansial
 ---
 
 ## 🚀 Features
@@ -76,7 +80,10 @@ use :
   "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/gamenewsindonesia/news2.json",
   "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/aninewsID/news1.json",
   "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/aninewsID/news2.json",
+  "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/aninewsID/news3.json",
+   "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/aninewsID/news4.json",
   "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/filmnewsindonesia/news1.json"
+  "https://raw.githubusercontent.com/amnottdevv/news-json-rawcontent-opensource/refs/heads/main/musicnewsindonesia/news1.json"
 ```
 atau kamu bisa buka di 
 source.json
